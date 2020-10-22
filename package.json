@@ -1,6 +1,6 @@
 {
     "name": "@nkia-aiotion/client-api",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "service api",
     "main": "./lib/esm/index.js",
     "scripts": {
